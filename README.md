@@ -21,7 +21,7 @@ This project aims to process and analyze this data to identify sales patterns, u
 - SQL
 - Pandas
 - REST APIs
-- Power BI / Tableau (Dashboard)
+- Tableau (Dashboard)
 
 ## 4. Data Sources
 
