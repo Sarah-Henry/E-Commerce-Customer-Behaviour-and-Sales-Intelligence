@@ -146,3 +146,38 @@ Weather and public holiday data are obtained from their respective API providers
 **Project:** E-Commerce Customer Behaviour and Sales Intelligence
 
 **Purpose:** Turning e-commerce data into meaningful business insights.
+
+
+---
+
+## 📚 Project Documentation
+
+Explore the different parts of the project:
+
+| Documentation | Description |
+|---|---|
+| [Project Overview](documentation/project_overview.md) | Project objectives, problem statement and technology stack |
+| [Data Sources](documentation/data_sources.md) | Details of datasets and external APIs |
+| [Architecture Diagram](documentation/architecture_diagram.md) | Complete data pipeline architecture |
+| [Gold Tables Documentation](documentation/gold_tables_documentation.md) | Gold tables, descriptions and validation |
+| [Data Folder](data/README.md) | Dataset organization and download information |
+| [Extraction Scripts](extraction/) | Python data extraction and validation scripts |
+| [Databricks Notebooks](notebooks/) | Bronze, Silver and Gold notebooks |
+| [Dashboard](dashboard/README.md) | Dashboard development information |
+| [Screenshots](documentation/screenshots/) | Evidence of successful pipeline execution |
+
+## 📸 Pipeline Execution Evidence
+
+Screenshots of the successful Bronze ingestion, Silver cleaning and Gold validation processes are available in the [screenshots folder](documentation/screenshots/).
+
+## 📌 Current Project Status
+
+- [x] Data extraction and validation
+- [x] Bronze layer ingestion
+- [x] Silver layer cleaning
+- [x] Gold layer analytics
+- [x] Gold table validation
+- [x] Project documentation
+- [ ] Power BI / Tableau dashboard
+- [ ] Final project report
+- [ ] Final presentation
